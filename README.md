@@ -16,11 +16,6 @@ Built with **Python + PySide6** for a modern UI.
 
 ---
 
-## 📸 Screenshots
-*(You can add screenshots of your app here)*
-
----
-
 ## 🚀 Installation & Usage
 
 ### 1. Clone the repository
